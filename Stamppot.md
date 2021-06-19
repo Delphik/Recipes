@@ -1,9 +1,11 @@
 # Stammpot
 Traditional Dutch Comfort Food
 
-Serves 3-4
+* Serves 3-4
 
-Prep time 30 min. Cook time 1hr 20min
+* Prep time 15 min
+* Cook time 1hr 20min
+* Total 1.5hr
 
 @author Max Henny #license CC BY-SA 
 

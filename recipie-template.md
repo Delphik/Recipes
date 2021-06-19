@@ -1,11 +1,10 @@
 # 
 @author Max Henny #license CC BY-SA 
 
-Serves
-
-Prep time
-Cook time 
-
+* Serves
+* Prep time
+* Cook time 
+* Total
 
 
 
