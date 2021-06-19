@@ -36,6 +36,6 @@ Prep time 30 min. Cook time 1hr 20min
 3. Preheat oven to 400F
 3. Mash potatoes 
 4. Mix into potatoes bacon/bacon fat, sauerkraut, milk, veggies, and season to taste.
-5. Fill potato mix into a tall tall baking dish, and place sausage on top
-6. Bake covered for 30 minutes, and the uncovered for another 15, or until potatoes start to brown
+5. Fill potato mix into a tall baking dish, and place sausage on top
+6. Bake covered for 30 minutes, and then uncovered for another 15, or until potatoes start to brown
 7. Let Rest 10 mins before serving. Serve with whole grain mustard
