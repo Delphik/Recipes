@@ -10,6 +10,7 @@ Hopefully I can get some of these added to some open recipie databases eventuall
 ## Beverages
 ----
 * [Anti-Inflammitory Coffee Spice]
+* [Chamomile Hops Tea]
 
 ## Foods
 ----
@@ -19,7 +20,7 @@ Hopefully I can get some of these added to some open recipie databases eventuall
 
 
 [Anti-Inflammitory Coffee Spice]: https://github.com/Delphik/Recipes/blob/main/coffee-spice-anti-inflammitory.md
-
+[Chamomile Hops Tea]: https://github.com/Delphik/Recipes/blob/main/Chamomile%20Hops%20Tea%20Blend.md
 
 
 
