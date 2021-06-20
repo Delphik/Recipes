@@ -3,7 +3,6 @@
 
 Refreshing Bedtime Tea
 
-
 ## Ingredients
 ----
 * 2 parts chamomile
@@ -32,3 +31,4 @@ Refreshing Bedtime Tea
 
 4. Add juice or sweeteners as desired.
 
+Note: Mildly inebriating. Chamomile contains flavanoids such as apignen that have been theorized to be mild agonists of benzodiazepine receptors. Hops contains some mild cannabinoids. Very useful drink when detoxing from harder substances.
