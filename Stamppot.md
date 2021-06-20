@@ -1,5 +1,5 @@
 # Stammpot
-Traditional Dutch Comfort Food
+My familys take on Traditional Dutch Comfort Food
 
 * Serves 3-4
 
