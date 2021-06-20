@@ -4,7 +4,7 @@
 
 Collection of my personal recipies under a creative commons license.
 
-Hopefully I can get some of these added to some open recipie databases eventually
+Hopefully I can get some of these added to some open recipe databases eventually
 
 
 ## Beverages
