@@ -24,7 +24,7 @@ Extra rich and sweet mashed sweet-potatoes for a Christmas or Thanksgiving side 
 ----
 1. Peel sweet potatoes and cut in quarters.
 
-2. Stream for 20-30min or until tender. 
+2. Steam for 20-30min or until tender. 
 
 3. Mix egg nog, bourbon, butter, and maple syrup and bring to a boil.
 
