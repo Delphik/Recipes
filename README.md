@@ -5,3 +5,23 @@
 Collection of my personal recipies under a creative commons license.
 
 Hopefully I can get some of these added to some open recipie databases eventually
+
+
+## Beverages
+----
+* [Anti-Inflammitory Coffee Spice]
+
+## Foods
+----
+* [Holiday Mashed Sweet Potatoes]
+* [Stamppot] 
+
+
+
+[Anti-Inflammitory Coffee Spice]: https://github.com/Delphik/Recipes/blob/main/coffee-spice-anti-inflammitory.md
+
+
+
+
+[Holiday Mashed Sweet Potatoes]: https://github.com/Delphik/Recipes/blob/main/Holiday-Mashed-Sweet-Potatoes.md
+[Stamppot]: https://github.com/Delphik/Recipes/blob/main/Stamppot.md
