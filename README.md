@@ -14,7 +14,7 @@ Hopefully I can get some of these added to some open recipie databases eventuall
 
 ## Foods
 ----
-* [Dehydrator Quinoa Rice Pilaf
+* [Dehydrator Quinoa Rice Pilaf]
 * [Holiday Mashed Sweet Potatoes]
 * [Stamppot] 
 
