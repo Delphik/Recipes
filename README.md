@@ -14,6 +14,7 @@ Hopefully I can get some of these added to some open recipie databases eventuall
 
 ## Foods
 ----
+* [Dehydrator Quinoa Rice Pilaf
 * [Holiday Mashed Sweet Potatoes]
 * [Stamppot] 
 
@@ -23,6 +24,6 @@ Hopefully I can get some of these added to some open recipie databases eventuall
 [Chamomile Hops Tea]: https://github.com/Delphik/Recipes/blob/main/Chamomile%20Hops%20Tea%20Blend.md
 
 
-
+[Dehydrator Quinoa Rice Pilaf]: https://github.com/Delphik/Recipes/blob/main/Dehydrator%20Quinoa%20Rice%20Pilaf.md
 [Holiday Mashed Sweet Potatoes]: https://github.com/Delphik/Recipes/blob/main/Holiday-Mashed-Sweet-Potatoes.md
 [Stamppot]: https://github.com/Delphik/Recipes/blob/main/Stamppot.md
