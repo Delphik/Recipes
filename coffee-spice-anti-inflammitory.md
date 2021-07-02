@@ -1,7 +1,7 @@
 # Anti-Inflammitory Coffee Spice
 @author Max Henny #license CC BY-SA 
 
-Blend of spices with anti-inflammitory properties for adding to coffee. I originally whipped this up the help deal with RSI pain and soreness after exercise, and it just kind of became my everyday drink.
+Blend of spices with anti-inflammitory properties for adding to coffee. I originally whipped this up the help deal with RSI computer-hand pain and soreness after exercise, and it just kind of became my everyday drink.
 
 When my lions mane mushroom grow starts coming in, I will be dehrydrating them and adding to this mix for the nootropic effects.
 
