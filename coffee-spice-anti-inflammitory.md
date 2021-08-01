@@ -8,6 +8,7 @@ When my lions mane mushroom grow starts coming in, I will be dehrydrating them a
 ## Ingredients
 ----
 * 4tbsp tumeric
+* 2tbsp lions mane powder
 * 2tbsp cinnamon
 * 2tbsp cacao
 * 2tbsp ginger
