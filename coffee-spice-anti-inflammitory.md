@@ -15,6 +15,15 @@ When my lions mane mushroom grow starts coming in, I will be dehrydrating them a
 * 1tbsp black pepper
 * 1tbsp cayenne pepper
 
+### Alt V1
+* 4tbsp tumeric
+* 4tbsp lions mane powder
+* 3tbsp cinnamon
+* 3tbsp cacao
+* 2tbsp ginger
+* 1tbsp black pepper
+* 1tbsp cayenne pepper
+
 
 
 ## Steps
