@@ -20,6 +20,7 @@
     My setup is
 
     * Wide mouth mason laters
+    * Kitchen Scale
     * Glass fermentation weights
     * Silicone Nipple Style Lid (I don't like the full airlocks that keep out all air) 
 
