@@ -21,7 +21,7 @@
 
     * Wide mouth mason laters
     * Glass fermentation weights
-    * Silicone Nipple Style Lid (I don't like the full airlocks that keep out all ait) 
+    * Silicone Nipple Style Lid (I don't like the full airlocks that keep out all air) 
 
 
 
