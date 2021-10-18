@@ -15,12 +15,12 @@
 
 ## Equipment
 * Large mixing vessel (weight while empty first so you can find the exact weight of the cabbage later)
+* Kitchen Scale
 * Fermentation crock
     
     My setup is
 
     * Wide mouth mason laters
-    * Kitchen Scale
     * Glass fermentation weights
     * Silicone Nipple Style Lid (I don't like the full airlocks that keep out all air) 
 
