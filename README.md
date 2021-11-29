@@ -16,6 +16,7 @@ Hopefully I can get some of these added to some open recipe databases eventually
 ----
 * [Dehydrator Quinoa Rice Pilaf]
 * [Holiday Mashed Sweet Potatoes]
+* [Sauerkraut] 
 * [Stamppot] 
 
 
@@ -27,3 +28,4 @@ Hopefully I can get some of these added to some open recipe databases eventually
 [Dehydrator Quinoa Rice Pilaf]: https://github.com/Delphik/Recipes/blob/main/Dehydrator%20Quinoa%20Rice%20Pilaf.md
 [Holiday Mashed Sweet Potatoes]: https://github.com/Delphik/Recipes/blob/main/Holiday-Mashed-Sweet-Potatoes.md
 [Stamppot]: https://github.com/Delphik/Recipes/blob/main/Stamppot.md
+[Sauerkraut]: https://github.com/Delphik/Recipes/blob/main/FancySauerkraut.md
