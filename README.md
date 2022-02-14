@@ -14,6 +14,7 @@ Hopefully I can get some of these added to some open recipe databases eventually
 
 ## Foods
 ----
+* [Beer Fondue] 
 * [Dehydrator Quinoa Rice Pilaf]
 * [Holiday Mashed Sweet Potatoes]
 * [Sauerkraut] 
@@ -29,3 +30,4 @@ Hopefully I can get some of these added to some open recipe databases eventually
 [Holiday Mashed Sweet Potatoes]: https://github.com/Delphik/Recipes/blob/main/Holiday-Mashed-Sweet-Potatoes.md
 [Stamppot]: https://github.com/Delphik/Recipes/blob/main/Stamppot.md
 [Sauerkraut]: https://github.com/Delphik/Recipes/blob/main/FancySauerkraut.md
+[Beer Fondue]: https://github.com/Delphik/Recipes/blob/main/beer%20fondue.md
