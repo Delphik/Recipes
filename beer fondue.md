@@ -18,6 +18,7 @@
 * 1,1/2tsp mustard powder
 * 1tbsp flour
 * 2tsp  ground white pepper
+* 2-3 garlic cloves
 
 
 ### Optional Ingredients
