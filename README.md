@@ -31,3 +31,9 @@ Hopefully I can get some of these added to some open recipe databases eventually
 [Stamppot]: https://github.com/Delphik/Recipes/blob/main/Stamppot.md
 [Sauerkraut]: https://github.com/Delphik/Recipes/blob/main/FancySauerkraut.md
 [Beer Fondue]: https://github.com/Delphik/Recipes/blob/main/beer%20fondue.md
+
+## Misc Health Products
+----
+
+[Flax Seed Hair Gel]: https://github.com/Delphik/Recipes/blob/main/chamomile_flaxseed_gel.md
+[Chamomile ACV Hair Rinse]: https://github.com/Delphik/Recipes/blob/main/chamomile_hair_rinse.md
