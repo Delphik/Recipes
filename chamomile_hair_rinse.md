@@ -1,22 +1,20 @@
-# Chamomile Brightening Hair Rinse (12 oz batch with Vegetable Glycerin)
+# Chamomile Brightening Hair Rinse
 
-**Yield:** About 12 oz (1½ cups) — practical for long hair  
+**Yield:** About 2–2½ cups  
 **Shelf life:** 7–10 days refrigerated in a clean bottle
 
 ## Ingredients
-- 8 oz (1 cup) **strong chamomile tea**
-- 2–3 oz (¼–⅓ cup) apple cider vinegar (ACV)
-- **2 teaspoons vegetable glycerin** (higher end of recommended range)
-- **Optional:** 1–2 tsp fresh lemon juice (for extra lightening boost)
+- **2 cups water**
+- **¼ cup dried chamomile flowers**
+- **¼–⅓ cup (4–5½ tablespoons) apple cider vinegar (ACV)**
+- **1–2 teaspoons vegetable glycerin**
+- **Optional:** ½–1 teaspoon powdered aloe (add with the chamomile in Step 1)
 - **Optional:** 2–4 drops rosemary or lavender essential oil
 
-### How to make the strong chamomile tea
-Steep 4–5 chamomile tea bags (or 3–4 tablespoons dried chamomile flowers) in 1 cup (8 oz) boiling water for 15–30 minutes. Cover while steeping, then cool completely before using.
-
 ## Instructions
-1. Brew the strong chamomile tea as described above and let it cool fully.
-2. Stir in the **2 teaspoons of vegetable glycerin** until fully dissolved.
-3. Add the apple cider vinegar and any optional ingredients (lemon juice or essential oils). Mix thoroughly.
+1. Bring the 2 cups of water to a boil. Add the ¼ cup dried chamomile flowers and optional powdered aloe. Remove from heat, cover, and steep for 15–30 minutes for a strong infusion.
+2. Strain out the solids and let the tea cool completely.
+3. Stir in the **¼–⅓ cup (4–5½ tablespoons) apple cider vinegar** and the **1–2 teaspoons of vegetable glycerin**. Add any optional essential oils and mix thoroughly.
 4. Pour into a clean spray bottle or jar for easy application.
 
 ## How to Use
@@ -27,9 +25,11 @@ Steep 4–5 chamomile tea bags (or 3–4 tablespoons dried chamomile flowers) in
 - Use **1–3 times per week**.
 
 **Tips for best results:**
-- 2 tsp vegetable glycerin provides good hydration with minimal stickiness in a rinse-off product.
-- For a smaller test batch, scale everything down proportionally (e.g., use 1 tsp glycerin for a 6 oz batch).
+- Start with the lower end of the ACV range (¼ cup / 4 tablespoons) if your hair is dry or sensitive.
+- Vegetable glycerin adds light hydration in this rinse-off formula with minimal climate sensitivity.
+- Powdered aloe adds light hydration and slip; begin with ½ tsp and increase if desired.
 - The ACV helps with pH balance, shine, and detangling curls.
 - Pair with your chamomile flaxseed gel afterward for styling and extra moisture.
+- For a milder daily rinse, you can dilute further with water.
 
 **Storage:** Refrigerate in a clean, sealed container. Shake before each use. Use within 7–10 days. Discard if it smells off or shows signs of spoilage.
